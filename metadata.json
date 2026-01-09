@@ -1,0 +1,5 @@
+{
+  "name": "VelvetTodo",
+  "description": "A sensual, intelligent task formatter that uses Gemini to organize your chaotic thoughts into a structured plan, complete with Focus Mode and Google Calendar integration.",
+  "requestFramePermissions": []
+}
